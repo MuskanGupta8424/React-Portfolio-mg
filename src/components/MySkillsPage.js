@@ -130,13 +130,13 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Material UI, Bootstrap, Node.js, ExpressJs, Mongodb etc.
+Html, Css, Js, ReactJS, Next JS, Tailwind CSS, API Integration, Material UI, Bootstrap, .
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github  etc.
+VScode, Github, Cursor ai etc.
 </p>
 </Description>
 
