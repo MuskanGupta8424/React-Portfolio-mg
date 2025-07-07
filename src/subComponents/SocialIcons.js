@@ -1,8 +1,7 @@
 import { motion } from "framer-motion";
 import React from "react";
-// import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
-import { Facebook, Github, Twitter, YouTube } from "../components/AllSvgs";
+import { LinkedIn, Github, Twitter, YouTube } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
 
 const Icons = styled.div`
@@ -39,6 +38,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://github.com/MuskanGupta8424"}
         >
           <Github
@@ -56,6 +56,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
+          rel="noreferrer"
           href={"https://twitter.com/MissMus80038835"}
         >
           <Twitter
@@ -73,9 +74,10 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://facebook.com"}
+          rel="noreferrer"
+          href={"https://www.linkedin.com/in/muskan-581a19311/"}
         >
-          <Facebook
+          <LinkedIn
             width={25}
             height={25}
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
@@ -90,7 +92,8 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://youtube.com"}
+          rel="noreferrer"
+          href={"https://www.youtube.com/@missmuskan9078"}
         >
           <YouTube
             width={25}

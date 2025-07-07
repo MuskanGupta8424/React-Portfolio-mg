@@ -3,6 +3,15 @@
 export const Work = [
     {
         id:1,
+        name:"Zuhouz Company Website",
+        description:"An online interior design platform providing comprehensive design services with photo-realistic 3D views. Built with Next.js and modern web technologies for seamless user experience.",
+        tags:["Next.js","API Integration","Tailwind CSS","responsive"],
+        
+        demo:"https://zuhouz.com",
+        github:"https://github.com/Zuhouz/web-app-measure-my-space"
+    },
+    {
+        id:2,
         name:"The Weirdos Club Clone",
         description:"A Clone of Weirdos Club to build using React JS, with styledComponents and GSAP for smooth scrolling animations.",
         tags:["react","gsap","styledComponents"],
@@ -11,7 +20,7 @@ export const Work = [
         github:"https://github.com/MuskanGupta8424/The-Weirdos-club-clone"
     },
     {
-        id:2,
+        id:3,
         name:"Fashion Wibe Studio",
         description:"A Fashion Studio website build in ReactJS,with styledComponents, locomotive-Scroll for smooth scrolling.Also Gsap and Framer-motion for some custom animations and effects",
         tags:["react-js","gsap","styledComponents"],
@@ -21,7 +30,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"Todo App(React + Redux)",
         description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
         tags:["react","redux","framer-motion"],
@@ -31,7 +40,7 @@ export const Work = [
         
     },
     {
-        id:4,
+        id:5,
         name:"Infos|Connect the brand",
         description:"A cool looking & responsive website build using HTML, CSS, JS, Gsap and other animations.It has really smooth animations.",
         tags:["HTML","CSS","JS","gsap"],
@@ -40,7 +49,7 @@ export const Work = [
         github:"https://github.com/MuskanGupta8424/B15-finalproject"
        
     },{
-        id:5,
+        id:6,
         name:"Neverland-Agency-Clone",
         description:"A clone of Neverland-Agency-Clone to build using Html5, CSS3, JS, Gsap, locomotive-scroll .",
         tags:["HTML5","CSS3","JS","gsap"],
@@ -49,7 +58,7 @@ export const Work = [
         github:"https://github.com/MuskanGUpta8424/Neverland-Agency-Clone"
     },
     {
-        id:6,
+        id:7,
         name:"Flora Responsive Website",
         description:"A reponsive website build using HTML5, CSS3, Javascript, Gsap, LocomotiveScroll, ScrollTrigger.js",
         tags:["Html5","javascript","css","gsap","locomotive-scroll"],
